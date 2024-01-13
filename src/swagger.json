@@ -8,6 +8,9 @@
   "servers": [
     {
       "url": "http://localhost:3333"
+    },
+    {
+      "url": "https://kenzie-empresas-api-4b38.onrender.com"
     }
   ],
   "paths": {
